@@ -1,3 +1,3 @@
 # data_processing
 
-Analyzing and visualizing simulation data.
+Data denoising and analysis functions.
